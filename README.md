@@ -27,4 +27,19 @@ Comparison of SM benchmarks with leaderboards. SPARROW is an evaluation benchmar
 Summary of datasets in SPARROW. Lang: number of languages, LF: number of language families, Scr: number of scripts.
 
 ## Benchmark and Leaderboard
-Thanks for being interested in your work. We are currently working on the leaderboard and plan to release the benchmark soon. If you would like to be notified when the leaderboard is ready, please fill out [this form]() and we will send you an email.
+Thanks for being interested in your work. We are currently working on the leaderboard and plan to release the benchmark soon. If you would like to be notified when the leaderboard is ready, please fill out [this form](https://forms.gle/ebcBdhSdxHvihpuN9) and we will send you an email.
+
+## Citation
+Please cite us if you use our data or models.
+```bibtex
+@inproceedings{zhang-etal-2023-skipped,
+    title = "The Skipped Beat: A Study of Sociopragmatic Understanding in LLMs for 64 Languages",
+    author = "Zhang, Chiyu  and
+      Khai Duy Doan and,
+      Qisheng Liao and,
+      Abdul-Mageed, Muhammad",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    year = "2023",
+    publisher = "Association for Computational Linguistics",
+}
+```
