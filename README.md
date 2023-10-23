@@ -14,8 +14,9 @@
 </p>
 Comparison of SM benchmarks with leaderboards. SPARROW is an evaluation benchmark for sociopragmatic meaning understanding. SPARROW comprises 169 datasets covering 13 task types across six primary categories (e.g., anti-social language detection, emotion recognition). SPARROW datasets encompass 64 different languages originating from 12 language families representing 16 writing scripts.
 
+
 <p align="center" width="100%">
-    <a><img src="images/summary_datasets.png" alt="Title" style="width: 80%; min-width: 300px; display: block; margin: auto;"></a>
+    <a><img src="images/summary_datasets.png" alt="Title" style="width: 50%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
 Summary of datasets in SPARROW. Lang: number of languages, LF: number of language families, Scr: number of scripts.
 
