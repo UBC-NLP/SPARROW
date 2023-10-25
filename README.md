@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">Publish at Main Conference of EMNLP 2023</p>
-
+<p align="center"> <a href="https://arxiv.org/abs/2310.14557" target="_blank">Paper</a></p> 
 
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)]()
 [![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg)]()
