@@ -30,7 +30,10 @@ Summary of datasets in SPARROW. Lang: number of languages, LF: number of languag
 * You can access our SPRROW benchmark and leaderboard [here](https://sparrow.dlnlp.ai/).
 * You can find SPARROW benchmark on [huggingface datasets](https://huggingface.co/datasets/UBC-NLP/sparrow).
 * More guidance for submitting your system is provided [here](https://github.com/UBC-NLP/SPARROW/tree/main/submission_instruction).
-  
+
+## Multilingual Model for Sociopragmatic Meaning Understanding:
+* InfoDCL-XLM-RoBERTa Base trained with multilingual TweetEmoji-multi: https://huggingface.co/UBC-NLP/InfoDCL-Emoji-XLMR-Base
+
 ## Citation
 Please cite us if you use our data or models.
 ```bibtex
