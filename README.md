@@ -29,7 +29,8 @@ Summary of datasets in SPARROW. Lang: number of languages, LF: number of languag
 ## Benchmark and Leaderboard
 * You can access our SPRROW benchmark and leaderboard [here](https://sparrow.dlnlp.ai/).
 * You can find SPARROW benchmark on [huggingface datasets](https://huggingface.co/datasets/UBC-NLP/sparrow).
-
+* More guidance for submitting your system is provided [here](https://github.com/UBC-NLP/SPARROW/tree/main/submission_instruction).
+  
 ## Citation
 Please cite us if you use our data or models.
 ```bibtex
