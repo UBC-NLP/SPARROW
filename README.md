@@ -27,7 +27,8 @@ Comparison of SM benchmarks with leaderboards. SPARROW is an evaluation benchmar
 Summary of datasets in SPARROW. Lang: number of languages, LF: number of language families, Scr: number of scripts.
 
 ## Benchmark and Leaderboard
-Thanks for being interested in your work. We are currently working on the leaderboard and plan to release the benchmark soon. If you would like to be notified when the leaderboard is ready, please fill out [this form](https://forms.gle/ebcBdhSdxHvihpuN9) and we will send you an email.
+* You can access our SPRROW benchmark and leaderboard [here](https://sparrow.dlnlp.ai/).
+* You can find SPARROW benchmark on [huggingface datasets](https://huggingface.co/datasets/UBC-NLP/sparrow).
 
 ## Citation
 Please cite us if you use our data or models.
