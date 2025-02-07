@@ -29,6 +29,7 @@ Summary of datasets in SPARROW. Lang: number of languages, LF: number of languag
 ## Benchmark and Leaderboard
 * You can access our SPRROW benchmark and leaderboard [here](https://sparrow.dlnlp.ai/).
 * You can find SPARROW benchmark on [huggingface datasets](https://huggingface.co/datasets/UBC-NLP/sparrow).
+* If you want to get the labels of Test set, please contact Chiyu via (zcy94@outlook.com)
 * More guidance for submitting your system is provided [here](https://github.com/UBC-NLP/SPARROW/tree/main/submission_instruction).
 
 ## Multilingual Model for Sociopragmatic Meaning Understanding:
